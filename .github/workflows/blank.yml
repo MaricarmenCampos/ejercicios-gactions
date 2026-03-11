@@ -37,4 +37,4 @@ jobs:
 
     steps:
      - name: "Mostrar variable del workflow"
-     run: echo "SALUDO=$SALUDO"
+       run: echo "SALUDO=$SALUDO"
